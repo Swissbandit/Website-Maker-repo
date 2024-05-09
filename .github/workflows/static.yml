@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'Website-Maker-repo/Sources/FDG/Website versions/FDG Version 1'
+          path: 'https://github.com/Swissbandit/Website-Maker-repo/tree/main/Sources/FDG/Website%20versions/FDG%20Version%201'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
