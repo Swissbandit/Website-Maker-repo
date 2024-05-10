@@ -1,13 +1,13 @@
  
 
-Zugangsart	Max. Download-Speed	Max. Upload-Speed
-ISDN	128 Kbit/s	128 Kbit/s
-DSL	2 bis 16 MBit/s	0,188 bis 1 MBit/s
-VDSL	25 bis 250 MBit/s	5 bis 40 MBit/s
-Glasfaser	100 bis 1.000 MBit/s	50 bis 200 MBit/s
-LTE	50 bis 300 MBit/s	10 bis 50 MBit/s
-5G	250 bis 1.000 MBit/s	50 bis 100 MBit/s
-Kabel	50 bis 1.000 MBit/s	5 bis 50 MBit/s
+Zugangsart  |  	Max. Download-Speed	     |   Max. Upload-Speed
+|    ISDN	     |      128 Kbit/s         |	  128 Kbit/s
+|    DSL	      |      2 bis 16 MBit/s 	  |   0,188 bis 1 MBit/s
+|    VDSL	     |      25 bis 250 MBit/s 	|   5 bis 40 MBit/s
+|    Glasfaser	|   100 bis 1.000 MBit/s 	|  50 bis 200 MBit/s
+|    LTE	      |    50 bis 300 MBit/s   	|    10 bis 50 MBit/s
+|    5G	       |   250 bis 1.000 MBit/s 	|  50 bis 100 MBit/s
+|    Kabel	    |   50 bis 1.000 MBit/s  	|  5 bis 50 MBit/s
 
 Was bedeuten die Einheiten der Übertragungsgeschwindigkeiten?
 Da es sich bei einem Bit um eine sehr kleine Dateneinheit handelt, werden zur Angabe von Übertragungsraten oft größeren Einheiten genutzt. 
@@ -34,6 +34,7 @@ Bit und Byte lassen sich jedoch ebenfalls einfach ineinander umrechnen.
 
 
 
+<br><a href="OurEnemyTheState-byAlbertJKnock-ModernMarkup.pdf">Modern American English Edition - Markup Version</a> - pdf<br>
 
 
 
