@@ -34,7 +34,7 @@ Bit und Byte lassen sich jedoch ebenfalls einfach ineinander umrechnen.
 
 
 
-<br><a href="OurEnemyTheState-byAlbertJKnock-ModernMarkup.pdf">Modern American English Edition - Markup Version</a> - pdf<br>
+<br><a href="fdgk.apk">Die Aktuellste Version der FDG Kommunikator App</a> - .akp <br>
 
 
 
