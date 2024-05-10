@@ -34,7 +34,7 @@ Bit und Byte lassen sich jedoch ebenfalls einfach ineinander umrechnen.
 
 
 
-<br><a href="fdgk.apk">Die Aktuellste Version der FDG Kommunikator App</a> - .akp <br>
+<br><a href="fdgk.apk">Die FDG Kommunikator App Herunterladen</a> - fdgk.apk <br>
 
 
 
