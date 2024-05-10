@@ -1,0 +1,195 @@
+ 
+Volle Phone vs Google Pixel Graphene OS:
+
+Volla Phone: limited processing capability, limited RAM, slow RAM,  mediocre back cameras, poor video recording resolution,
+mediocre screen, mono speaker, no HD voice, no DP alt mode, terrible and fixed focus selfie camera, only wifi n ( 😱 ! ) no MTE, No hardened memory allocator, no Titan M...
+
+TL/DR generic mediocre SoC and no specific security improvements aside from AOSP upstreaming from GrapheneOS! On hte additional hardware front, ad screen, cameras and spekers. Software wise little compatibility with alternative functions includind port
+
+TL/DR generic mediocre SoC and no specific security improvements aside from AOSP upstreaming from GrapheneOS!
+On the additional hardware front, mediocre display, cameras and speakers.
+Software wise little compatibility with alternative functions like DP Alt mode.
+
+Volla Phone is a hobbyist device with no meaningful development of hardware or software security, unlike the Titan M 3 and the Google Tensor processor in the Pixel 8 line of devices.
+The Volla Phone uses a generic mobile device SoC from Mediatek which has mediocre performance,
+very little security utility, no specific hardware hardening against any attack aside from those that are already part of the Mediatek general purpose mobile device SoC.
+It's not designed with any special attention to hardening what so ever, and that can be witnessed in mane areas,
+especially when you look at the ability to install an insecure OS and use it as an alternative hybrid desktop/touch experience.
+
+
+
+qortal://APP/Q-Tube/video/crowetic/qtube_vid_qvideo_qblog_KX9ZfO_metadata
+
+You're welcome.  I am fully conversant with these devices and GrapheneOS.
+I have a few Pixel devices that I am constantly testing, including 2x Pixel 6, Pixel 6 Pro, Pixel 7, Pixel 7 Pro, Pixel 8 Pro.
+I have only ever used the web installer for GrapheneOS once on each device and they all passed attestation once they were first securely booted with a locked bootloader.
+The web installer is flawless. It's a slick and professional experience.
+
+You're welcome.  I am fully conversant with these devices and GrapheneOS. I have a few Pixel devices that I am constantly testing, including 2x Pixel 6, Pixel 6 Pro, Pixel 7, Pixel 7 Pro, Pixel 8 Pro. I have only ever used the web installer for GrapheneOS once on each device and they all passed attestation once they were first securely booted with a locked bootloader. The web installer is flawless. It's a slick and professional experience.
+
+
+I have compared them to Samsung phones from Galaxy S9 Plus all the way to the S23 Ultra, and Sony flag ships from 6 years ago to present. There is no comparison security wise as the Pixels blow everyhting else out of the water with GrapheneOS, and the hardware is up there with the quality of components with what are considered rival's flagships.
+
+badge-6
+once the next Core and UI updates are released, we are going to see which new features are included and which were left out, and then we will start to build custom versions that are based on community decisions.  we have started a discussion group for this.  if you would like to participate or even just follow along, you can search for "qortalplus" in the Private Group search in group management, and press Join.  you have already been invited, so you might see that there also.  (i haven't forgotten about your plans for the custom FDG branded versions either.)
+
+github.com/qortalplus
+
+the link to download something from Q-Share?  that depends on the file you want.  you can use qortal.link, qortal.name, or q-apps.org/app/Q-Share
+
+for example:
+https://q-apps.org/APP/q-share/share/PixelMage/qshare_file_dr-mercola-032-hidden-sugars-i_CXiPZ6_metadata
+
+if you go to this page, it will show a download button but that doesn't work.  this is an intentional limitation with the design of Q-Share.  they made it so that the download button doesn't work on gateways to encourage people to install the Qortal software instead...
+
+but that's not needed.  you can press F12 to look at the browser console, and you see when you click the download button it has some link in the network section, showing the actual link to the file where you can view and download:
+
+https://q-apps.org/FILE/PixelMage/qshare_file_dr-mercola-032-hidden-sugars-i_6gFCmY
+
+
+
+https://qortal.link/APP/Q-Share/share/Malinois%20Blues/qshare_file_publii-website-creator-with-14_A60pGs_metadata
+
+
+https://qortal.link/arbitrary/THUMBNAIL/Malinois Blues/qortal_avatar
+
+r oh there’s a bunch. TryHackMe of course but there is my Linux journey is another good site. And there are a few others that actually have built in terminals but I can’t remember the names.
+Federico Di Cesare
+​​If you have real coding/networking/hacking skills, you have them in any language you use. You only have to learn sintax. Python is only a tool, the skills are independent from it
+
+
+so i was part of the idena "community governance" initiative that was basically created totally by community members using the voting system (oracles) they have.
+
+https://medium.com/@Zen-44/community-wallet-governance-protocol-23a0e331b5eb
+
+here's the most recent version when i was taking part as a delegate.  we ran into some issues, and had disagreements there too.  it wasn't perfect but i really liked the attempts we were making to find good compromises.
+
+i have a basic idea of how we can do something similar here with community delegates and our voting system.  if you review that link, just discount the stuff about being in discord and multisig (since we don't have that yet) and we can decide if paying delegates would be necessary (seems reasonable to me).
+
+the general flow would be:
+people apply to be delegates -> community approves / rejects candidates -> someone creates a proposal -> community votes on it -> delegates review and vote, to ensure it's all good and valid (double check against mob rule intentional bad decisions) -> approved decision gets implemented
+
+
+
+
+yall werent around when him and ice were stealing 15-28k a week off the mining pools on cryptopool.party
+
+
+or when they were selling masternode mangment services lmao
+
+these communities just keep getting fucked. this project has no visions...just ripoffs.....
+
+its ok though. the sec will be looking into the unregistered illegal exchange built right into the client, and i already have the full codebase scraped from github and submitted, along with video capture of how easy it is to lauder money here.
+
+here, ill post jasons address for you all, so you can see on google maps what youre hard earned fiat has bought this loser piece of shit.
+
+ flashy cars, big ass house, etc etc etc.....and the funny thing is all you dumb fucks just eat it up.....i mean come on if that asshole g factor who hated me left and wrote a resignation because i made him see the truth, that should tell you something.....he hated me.  but he wasnt sticking around to get fucked by jason, the irs and the sec thats for sure lmao
+
+the biggest thing was the pumping of raven......they sibglehandedly fucked that project out of being truly good
+
+by milking all its value, to spend all that milked money on asics.
+
+pretty sure yopi is in on it too, along with his brother who literally got caught in the algo because he was a scammy piece of shit that was too dumb to hide what he did.
+
+
+biggest way to make multiple accounts is easy. just message rose under 50 different names. shes exempt from the algo along with crowe and a few others
+badge-6
+nVm-TheSuspect
+
+qoretal has been another jason crowe scam from the beginning....
+
+Jesse you were more than happy to play up being in the inner circle and being around from before the beginning until you were caught in the self sponsorship algorithm. Reduces your credibility a little bit.
+
+
+https://wiki.qortal.org/doku.php?id=how_to_edit_qortal_core_settings
+
+"autoUpdateEnabled": false
+Setting this to false will disable the Core from automatically updating when a new version is released and approved.
+
+There is no setting to enable or disable updates from the UI.  They can just be dismissed manually when they are offered.
+
+
+testing the coin wallet (first deriving a good address, then being able to receive and show balance, then able to send) is how i start with a new coin.  then once that works, trading isn't much more, as it's just sending in a specific way plus a Qortal AT.
+
+crowetic frames it as the "devs" HAVE to do certain things, to PROTECT the integrity of the network, but he doesn't let anyone else decide what is actually needed for that.  without cat and cal there are no software engineering minds working on Qortal anymore.  just tinkerers able to add things here and there, myself included in that.  maybe with siddi and kenny and me together, and if others want to help.  we could still maintain the core without relying on the other "devs" that are attempting to extort the community.
+
+
+
+
+
+meeting notes:
+
+
+doesn't sound like the updates for Core and UI are ready yet, and there may be some new code posted to github from which i can make another test release. or they might keep that private and not let anyone see it...
+
+
+seth said "someone in qchat" was posting a list of issues with the "new UI" and crowetic asked what build it was.  seth said he didn't know, although it should be clear that it was built from the current AlphaX repo as we were told to.
+
+
+someone in chat said that it was from my github, and crowetic said that's an "unofficial UI" then and has nothing to do with them, and he guessed it was stonecrow's list of issues which he said he "already answered".
+
+
+AlphaX said he will release a prerelease so that people have "ui build on right resources".
+
+
+i don't have much to say about the q-app fee nonsense. i doubt this will work out as they hope. they spent a lot of time trying to convince people it's the best option for them, and that it would be good for us and the whole project. i see it as an erosion of our ideals, but they can do whatever they like, as that's the point of the platform...
+
+
+reposting since it's buried in general chat.  sorry about that...  i was just going to post it here, but AlphaX called me out and i figured there was some info there that he might not get to read otherwise.  since it's about the prereleases.
+
+
+badge-6
+i'm not going to wait anymore for this next update.  i am going to start on QortalPlus releases to match the current releases + whatever features are pending still and if anyone requests something easy i can squeeze in too.  :D
+
+
+
+badge-6
+Alpha x
+
+i don't understand what you are saying.  i told people you were getting them for free?  what does that mean?
+
+lol maybe you dont remember all your discord shit you posted
+
+anyway i dont want to tal about that more
+
+i brought back the arrr servers as people get probs
+
+5 public nodes which are minting and all rewards go to dev fund
+
+the qortal lottery get paid from me
+
+thats all and i dont gain any coin to my pocket from minting
+
+the other 5 accounts long time off
+
+
+if anybody need a level 2 or 3 account is my pleasure to transfer it
+
+
+
+phil has started us down the path with Q-Lottery, which darlood doesn't seem to realize is a Q-APP that phil made to test the extension.  the code is not open source code.  it's open compiled code.  that's not the same as source.  i hope this isn't a sign of what's to come, but Seth made it sound possible or maybe likely.
+
+seth wants to make a list of people who don't pay the fees, so we can all gang up on them and block them out of the network.  yeah that's really nice man...
+
+the thing is, the better apps AREN'T the main ones.  those are the ones with bug fixes that have been waiting for weeks.  why would someone use that, when QM-Apps have been BETTER maintained?
+
+i will do the bug fixes, and i DON'T want extra fees.  what do you think people will pick?
+
+they are just trying to find more excuses to avoid accountability, and more ways to get more QORT for their time, which is being spent on marketing and money making schemes, instead of on how to fix the problems with the apps that are "maybe / maybe not" DEMOS.
+
+i get accused of big tech monitoring with Qombo, but let's see...  who is running a series of nodes that is trying to map out the whole network for geographical statistics?  that's AlphaX.  no one says he is trying to spy on things with that.  why?
+
+
+he says his explorers will be open source when they are ready...  so they are not ready yet?  i have used them some.  clearly they are still in progress, but so is everything else on Qortal and the source is there.  progress happens faster when you have helpers and no one can help if they can't see the code.
+
+my point is just that if anyone is capable of monitoring the whole network to correlate accounts with ip addresses, it would be him.  he's got the largest node cluster that i know of.
+
+
+crowetic says we don't need VPNs and makes some nonsense claim about things not working as well.  that's just standard VPN usage though.  everyone using them knows there is a tradeoff.  privacy for speed.  he's just trying to make Qortal sound more HYPE.  i have used Qortal over VPN and Tor and they both work fine.  i think i have seen some say they did it over I2P too.
+
+badge-2
+I have used VPN all along with no issues what so ever !!
+
+
+the core is java, the UI is javascript using "lit" framework.  most of the "Q-" Q-Apps are in react framework.  the q-apps i have been making are just "vanilla" javascript.  i think edbob was working in "vue" for his qwiki and newer qualitycontrol app.
+

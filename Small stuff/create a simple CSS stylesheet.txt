@@ -1,0 +1,216 @@
+# How to Create a Simple CSS Stylesheet Using Notepad
+
+This guide teaches you how to use Windows' Notepad app to store information for a webpage written in HTML and CSS.
+HTML is the programming language used to create your webpage,
+while CSS is the language that determines the style—color, font, and so on—of the HTML elements on the webpage.
+CSS files do not need to be compiled.
+You may just link it to your .html header.
+CSS files are stylesheets that extend HTML pages with styles.
+They are not able to be run, but must be specified as links in a tag.
+
+
+When coding in HTML or CSS, it doesn't really matter how many spaces are between lines of code;
+you can press ↵ Enter several times after each line without changing the function of the program.
+Try indenting different parts of your CSS stylesheet to make finding elements easier.
+For example, you might indent header code once and paragraph code twice.
+
+
+## 1 Creating an HTML Page
+
+Open Notepad. Open Start , type in notepad, and click the blue Notepad app at the top of the Start window.
+
+Indicate the document type. Type <!DOCTYPE html> into Notepad, then press ↵ Enter to start a new line.
+
+Add the HTML tag. Type in <html> and press ↵ Enter.
+
+Enter the BODY tag. Type in <body> and press ↵ Enter. You can now begin entering your webpage's information.
+
+Add a header. Type in <h1>TEXT</h1>, making sure to replace "TEXT" with your preferred page heading, and press ↵ Enter.
+For example, to create a page header that says "Welcome!", you would type <h1>Welcome!</h1> into Notepad.
+
+Add text below the header. Type in <p1>TEXT</p1>, making sure to replace "TEXT" with your preferred message, and press ↵ Enter.
+For example, to add text that says "I am an iguana", you would enter <p1>I am an iguana</p1> into Notepad.
+
+Add more headers and paragraphs.
+Each subsequent header and paragraph must have an ascending number applied to it;
+for example, your second header will have <h2></h2> tags around it, and the second paragraph will have <p2></p2> tags.
+
+Make sure that you're continuing to press ↵ Enter after each line of code.
+
+Close the BODY and HTML tags. Once you've entered your last line of code, type in </body> on its own line and press ↵ Enter, then type in </html>.
+Your document is now ready to be styled with CSS.
+
+## 2 Adding CSS
+
+Understand how CSS works.
+You use CSS to change the appearance of an HTML element (e.g., a paragraph).
+CSS is typically written in the following line-by-line format:
+
+,,,
+
+element tag { (for example, p {)
+modifier: property; (for example, font-size: 20px;)
+modifier: property; (for example, color: black;)
+}
+
+,,,
+
+Place a space between the <html> and <body> tags.
+These should be near the top of the page.
+
+Enter a HEAD tag. Type in <head> and press ↵ Enter.
+
+Add a STYLE tag. Type in <style> and press ↵ Enter.
+
+Change your webpage's background color. To do so:
+Type in body { and press ↵ Enter.
+Type in background-color: lightblue; and press ↵ Enter.
+You can use any supported color here, as well as "light" or "dark" modifiers.
+Type in } and press ↵ Enter.
+
+Style your first header. Type in h1 { and press ↵ Enter, add a modifier and press ↵ Enter, and type in } and press ↵ Enter.
+You can add multiple modifiers to one element as long as each modifier is on its own line.
+Common modifiers include the following:
+- Text size - Type in font-size: 30px; to set your text as 30-point font.
+Substitute any number that you want to use.
+- Text color - Type in color: black; to make black text. Substitute any color that you want to use.
+- Text alignment - Type in text-align: center; to center the text.
+You can also type left or right to align the text appropriately.
+- Font used - Type in font-family: times new roman; to set your font as Times New Roman.
+You can also use fonts like verdana or georgia.
+
+Style your first paragraph.
+Type in p1 { and press ↵ Enter, add a modifier and press ↵ Enter, and type in } and press ↵ Enter.
+The modifiers that you can use here are identical to the ones used for the header.
+
+Style the rest of your document.
+You can style any element by referencing its tag text and placing an open curly bracket ({), adding modifiers, and then closing the bracket (}).
+
+Close the STYLE and HEAD tags.
+On a new line below your last styling text, type in </style> and press ↵ Enter, then type in </head> and press ↵ Enter.
+Your CSS sheet is complete, meaning that you can now review and save it.
+
+## 3 Saving the Document
+
+Review your CSS stylesheet.
+Your CSS document will vary slightly, but it should look something like this:
+
+,,,
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: lightblue;
+}
+h1 {
+font-size: 45px;
+}
+p1 {
+color: black;
+}
+</style>
+</head>
+<body>
+<h1>Hi!</h1>
+<p1>I am an iguana</p1>
+</body>
+</html>
+
+,,,
+
+Click File. It's in the top-left corner of the Notepad window.
+A drop-down menu will appear.
+
+Click Save As…. You'll see this near the bottom of the drop-down menu.
+Clicking it prompts a window to open.
+
+Select a save location. Click a folder (e.g., Desktop) on the left side of the window.
+
+Click the "Save as type" drop-down box.
+A drop-down menu will appear.
+
+Click All Files. It's in the drop-down menu.
+
+Name your file with a ".html" extension.
+In the "File name" text field, type in your preferred document name (e.g., "My CSS") followed by .html.
+For example, if you named your file "My CSS", you'd type my css.html into the field.
+If you use a program that can run ".css" files, you can use .css instead of .html here.
+
+Click Save.
+It's in the bottom-right side of the "Save As" window.
+This will save your CSS sheet in an executable format, meaning that you can open it in your preferred browser or HTML editor rather than in Notepad.
+
+ CSS Tutorial @ <https://www.w3schools.com/css/>
+
+
+
+### CSS Cheat Sheet
+
+
+- Write a comment in a CSS file so that it won't affect anything else in the code
+
+
+/*
+
+Put your comment here
+
+*/
+
+
+- Specify a background color in CSS
+
+
+p
+
+{
+
+background-color:#6B0000;
+
+} #sample_html
+
+
+- Manipulate text color and styles
+
+
+Use a hex value:
+
+
+body {
+
+color:#000000;
+
+} #sample_html
+
+
+or you can also do it like this:
+
+
+body {
+
+color:black;
+
+} #sample_html
+
+
+- Manipulate link colors on a page
+
+
+Web developers often choose different colors for links, based on how the user has interacted with that link. For instance, if the user clicks on a link, it is considered “visited” and the color changes.
+
+
+To do this, first choose the hex values for the colors you want to display. Next, use this code to define the color of the links, based on the user’s behavior:
+
+
+a:link {color:#00478F;} #sample_html
+
+a:visited {color:#00B200;} #sample_html
+
+a:hover {color:#7ACC52;} #sample_html
+
+a:active {color:#FF66FF;} #sample_html
+
+
+
+

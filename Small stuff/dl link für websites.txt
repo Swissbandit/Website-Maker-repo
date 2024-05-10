@@ -1,0 +1,289 @@
+
+Adding a download link for a file is as easy as adding the <a href=""></a> tag sto your HTML code.
+Enter the URL of the file between the quotation marks to create the download link.
+Type the text you want the user to click between <a href="url"> and </a>.
+
+put in place of the page its link
+Open the page you want to add your link to in your code editor.
+Once the file is uploaded, you'll need to add the link to it on your web page.
+Open the HTML file that you want to add the link to.
+You can double-click it in the control panel file manager to open it in the built-in page editor.
+If you're using an FTP, right-click the HTML file on your server and use "Open With" to open it in your code or text editor.
+Find the spot on the page that you want to add the link. Place your cursor in the spot in the code that you want to insert your download link. This could be in the body of a paragraph, at the bottom of a page, or anywhere else.
+6
+Add the code for the link. Enter the following HTML5 code for your download link. This will start the download immediately for users after they click the link. As long as the file to be downloaded is in the same folder as the HTML file, you just need to use the name and extension. If the file is located in another folder, you'll need to include the folder structure.
+<!-- Uploaded file in same location as HTML file -->
+<a href="examplefile.pdf" download>Link text</a>
+
+<!-- Uploaded file in different location than HTML file -->
+<a href="/path/to/file/examplefile2.jpg" download>Link text</a>
+The <a> download attribute does not work in Safari, Internet Explorer, or Opera Mini. Users with these browsers will open the file in a new page and have to save it manually.[2]
+7
+Create a download button instead of a link. You can use an image instead of text to create the download link. This requires a button image already on your web server.
+<a href="examplefile.pdf" download>
+	<img src="/images/downloadbutton.jpg">
+</a>
+8
+Rename the downloaded file. If you define the <a> download attribute, you can change the name for the file when someone downloads it. This can make it easier for users to identify files that they download from you.
+<a href="083116sal_rep.pdf" download="August 31 2016 Sales Report">Download the report</a>
+9
+Save the changes to your HTML file. Once you're satisfied with your code, save the changes to your HTML file and reupload it if necessary. You'll be able to see your new download button live on your website.
+
+
+
+
+## How to Make a File Downloadable from Your Website
+
+Easy methods for linking to a file download on your website
+
+METHODS
+1Using HTML
+2Using WordPress
+3Using Weebly
++Show 2 more...
+OTHER SECTIONS
+Questions & Answers
+Related Articles
+References
+Article Summary
+
+
+Offering download links for files through your website is a common desire, and there are a couple ways to do it.
+Sites that offer website building tools, such as GoDaddy, WordPress, and Weebly, often offer the ability to upload a file at the same time as you make a link.
+If you build your own site from scratch, you can create download links using simple HTML code for files hosted on your server.
+
+### Method 1 Using HTML
+
+Create an HTML page if you don't have one yet.
+You'll be adding your download link to an HTML web page.
+If you don't have an existing site, you can create a basic HTML page to test out the download link.
+See Create a Simple Web Page with HTML for details.
+
+Open a folder on your server for both the page and the file.
+The easiest way to link a file is by placing the file in the same folder as the page's HTML file.
+Use the control panel file manager or the file browser in your FTP program to navigate to the folder containing the HTML file you'll be adding the link to.
+Your FTP client should already be configured to connect to your webserver since you've uploaded your site there before.
+If it isn't, see How to Use FTP for instructions on configuring your FTP client to connect to your server.
+If your web server has an online control panel, you can access your server files directly through the web management interface.
+You'll be able to access this when you sign into your site as an administrator.
+Once you're in the control panel, select the "File Manager" option.
+If you created your website using a website creation tool like WordPress, Weebly, or Wix, see the platform-specific instructions in the methods below.
+
+Upload the file you want to create a link to.
+You can upload pretty much any type of file, from PDF files to ZIP files.
+Note that some servers may limit the size of the file you are allowed to upload, and large files can eat through your allotted bandwidth pretty quickly.
+Browsers may block potentially malicious files from being downloaded by your visitors, such as EXE or DLL files.
+To upload files using your FTP program, drag the file into the folder in the FTP window that you want to upload it to.
+It will begin uploading immediately.
+Your upload speeds will typically be much slower than your download speeds, so it may take a while to completely upload the file.
+If you are using the virtual control panel file manager, click the "Upload" button at the top of the window.
+Browse your computer for the file you want to upload.
+Large files may take a while to upload to your server.
+
+Open the page you want to add your link to in your code editor.
+Once the file is uploaded, you'll need to add the link to it on your web page.
+Open the HTML file that you want to add the link to.
+You can double-click it in the control panel file manager to open it in the built-in page editor.
+If you're using an FTP, right-click the HTML file on your server and use "Open With" to open it in your code or text editor.
+
+Find the spot on the page that you want to add the link.
+Place your cursor in the spot in the code that you want to insert your download link.
+This could be in the body of a paragraph, at the bottom of a page, or anywhere else.
+
+Add the code for the link.
+Enter the following HTML5 code for your download link.
+This will start the download immediately for users after they click the link.
+As long as the file to be downloaded is in the same folder as the HTML file, you just need to use the name and extension.
+If the file is located in another folder, you'll need to include the folder structure.
+<!-- Uploaded file in same location as HTML file -->
+<a href="examplefile.pdf" download>Link text</a>
+
+<!-- Uploaded file in different location than HTML file -->
+<a href="/path/to/file/examplefile2.jpg" download>Link text</a>
+The <a> download attribute does not work in Safari, Internet Explorer, or Opera Mini.
+Users with these browsers will open the file in a new page and have to save it manually.
+
+Create a download button instead of a link.
+You can use an image instead of text to create the download link.
+This requires a button image already on your web server.
+<a href="examplefile.pdf" download>
+	<img src="/images/downloadbutton.jpg">
+</a>
+
+Rename the downloaded file.
+If you define the <a> download attribute, you can change the name for the file when someone downloads it.
+This can make it easier for users to identify files that they download from you.
+<a href="083116sal_rep.pdf" download="August 31 2016 Sales Report">Download the report</a>
+
+Save the changes to your HTML file.
+Once you're satisfied with your code, save the changes to your HTML file and reupload it if necessary.
+You'll be able to see your new download button live on your website.
+
+### Method 2 Using WordPress
+
+Open your site in the WordPress site editor. If you use WordPress to manage and publish your website, you can use the built-in tools to add a download link to any of your pages. Log into your WordPress dashboard using the admin account.
+
+Place your cursor where you want the link to appear. You can put the link in the middle of an existing paragraph or create a new line for it.
+
+Click the "Add Media" button. You'll find this above the posting tools at the top of the page.
+
+Click the "Upload Files" tab and then drag the file into the window. You can upload a variety of different files, but WordPress may limit the size based on your account type.
+It may take a little while to upload files, as most connections are slower uploading than downloading.
+
+Add a description for the file. You can enter a description underneath the file in the Add Media window. This will be the text that displays as the download link.
+
+Click the "Insert into post/page" button. This will insert the download link at the location of your cursor. Note that this will link to an attachment page and not the actual file. This is a limitation of the WordPress software.
+
+### Method 3 Using Weebly
+
+Open your website in the Weebly editor. Log into the Weebly site and open your web page in the Weebly editor.
+
+Select the text or object that you want to turn into a link. You can highlight text in a text field or select an image on your page that you want to turn into the download link for your file.
+
+Click the "Link" button. When you have text selected, this looks like a chainlink, and can be found at the top of the text editor. When you have an image selected, click "Link" in the image control panel.
+
+Select "File" and then click "upload a file." This will open the file browser.
+
+Select the file you want to make available for download. Once you select the file, it will begin uploading.
+Basic users are limited to files 5 MB and smaller. Premium users have a 100 MB file size limit.
+
+Publish your site to see the new link. After uploading the file, the link will be ready to use. Click the Publish button to push your changes to the live site. Your visitors will now be able to click the link and download the file.
+
+### Method 4 Using Wix
+
+
+Open your website in the Wix editor. If you use Wix to create and manage your site, log into the Wix website and load your webpage in the site editor.
+
+Select the text or image that you want to turn into a link. You can create links from text on your page or from images.
+
+Turn your selection into a link. The process varies a little for text and images:
+Text - Click the Link button in the Text Settings window. The button looks like a chainlink. This will open the link menu.
+Image - Select "A link open" from the "When image is clicked" menu in the Image Settings window. Click "Add a link" in the "What does the link do?" section. This will open the link menu.
+
+Select "Document" from the list of link options. This will allow you to upload various document files.
+
+Click the "Choose File" button. This will open the file uploader.
+
+Drag the file you want to upload into the window. You can only upload DOC, PDF, PPT, XLS, and ODT (and their subformats) files. This means you're essentially limited to uploading documents. File sizes are limited to 15 MB.
+
+Publish your site. Once you've uploaded the file, your link is ready to go. Click the "Publish" button in the upper-right corner to save your changes and push them to the live site.
+
+### Method 5 Using GoDaddy
+
+
+Open your site in the GoDaddy site editor. If you used the GoDaddy site builder, log into the GoDaddy website and open your website in the editor.
+
+Select the object or text that you want to turn into a link. You can turn any object on your site into a link, as well as any text from your text boxes. If you want to create a download button, click the "Button" option from the left menu to insert one.
+
+Create a link from your selected object or text. If you have an object selected, click the Settings button to open the menu. If you have text selected, click the "Link" button in the text formatting tools, which looks like a chainlink.
+
+Click the red arrow below "Link (URL)" and select "Upload." This will allow you to select the file you want to upload to your website.
+
+Click the "Browse" button and find the file you want to upload. Files are limited to 30 MB in size. You cannot upload HTML, PHP, EXE, DLL and several other potentially dangerous types of files.
+
+Click "Insert" once the file has uploaded. You'll see a checkmark next to the file in the window when it has finished uploading.
+
+Click "Save" to create the link. Clicking "Save" will apply the file to the object or text link you created.
+
+Click "Publish" to save the changes to your site. This will make your new link live, and your visitors will be able to download the linked file.
+
+
+
+--------
+
+
+
+
+Upload the game file to your website directory. Most browser games are made with Flash, so the file extension is .swf. Some games are made in HTML or, rarely, in other formats, but make sure you recognize the file extension before uploading it.
+If you are using a free web hosting service such as Wordpress, you may need to install a plugin first in order to host the game. Look for a Flash player plugin to host a Flash game.
+Some web hosts do not allow .swf files or other game files. In this case, upload the file to a free content hosting website, then link to it using an <embed> tag as described below.
+
+
+
+
+Embed the game instead. If you would rather place the game inside an ordinary HTML page next to other content, you can use an <embed>, <iframe>, or <object> tag:
+For a very basic embedding of a Flash game, write <embed src="InsertGameURL" type="application/x-shockwave-flash"></embed>. There are many ways to modify this tag. Follow the embed method above to find examples to learn from.
+Some downloaded game files will come with a text document that includes embedding code to copy-paste to your site. Make sure you understand what the code does before uploading. Change the link to the file you uploaded instead of the original website.
+
+https://www.freegamesjungle.com/games_for_my_websites.html
+
+
+
+https://www.crazymonkeygames.com/download.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
+badge-6
+i thought those things were generally what we all wanted and what we were here for, based on the qortal website, wiki, all the interviews with crowetic, mike winner, lootz...  that's why i have been here for three years instead of any of the similar projects.  not that i have seen anything which really offers ALL of what Qortal has.
+
+there are some which may have better options for individual parts, like chat maybe (for now).  i haven't found any good dex, and i only know of a few that i think even deserve to use that name (as opposed to token swapping websites, which are not dexes despite the names).
+
+the QDN content hosting here is pretty amazing, even though people like to complain about speeds.  hosting onions on tor requires the publisher to have an always-on server.  freenet, i2p, and ipfs are comparable, but they have other drawbacks too.
+
+these "federated" networks are starting to pop up, which i don't really like.  it seems like more of a fracture-net than any kind of decentralization.  just because anyone can run a server, doesn't mean the same censorship and control issues aren't there.  that just makes it a "choose your master" situation, and isolates people from sharing ideas.
+
+TLDR: despite all obstacles, i love Qortal, and this community.
+
+If your VPM provides a stable connection with Wireguard then you should have no problem.
+
+Avoid OpenVPN UDP as this has many problems, especially with Qortal.
+
+Open VPN TCP isn't ideal but if that's the only option it's way better than Open VPN UDP for Qortal.
+
+I have extensively tested this and Wireguard with port forwarding is always the best VPN option on all platforms (Windows 10/11, Ubuntu 22.04 LTS, Linux Mint XFCE).
+
+https://github.com/Qortal/AT
+this is the "smart contract" system for Qortal, which is more like a Virtual CPU compared to the "Ethereum Virtual Machine".  it's a lower level language involving ... well here from the docs:
+
+"In brief an Automated Transaction is a "Turing complete" set of byte code instructions which will be executed
+
+by a byte code interpreter built into its host. An AT supporting host platform automatically supports various
+
+applications ranging from games of chance to automated crowdfunding and ensuring that "long term savings" are
+
+not lost forever."
+
+it's code that can run on chain, supplementing the "static websites" option of QDN.  that's how the Trades and Lottery and Q-Fund work to trigger at certain times or actions.
+
+
+
+Oppenheimer Ranch Project on YouTube
+
+btw, just a note for anyone who's privacy focused:
+when you make a new account, the UI takes you through the Tour and then stores that it was completed already for that address.  so that means in your local storage there exists a record of every address that's been logged in.
+
+
+Qortal-4.5.1+test2-amd64.AppImage
+https://drive.proton.me/urls/EB0B6N0R7W#NiVFwBFYZphV
+
+source:
+https://github.com/QuickMythril/qortal-ui/tree/testing-20240424
+
+-Includes changes from Qortal-4.5.1+test1
+-Adds NMC, DASH, FIRO
+
+Siddi1 posted an update in the Dev Server:
+
+Still in the trenches of Java RNS in the process of finding all critical issues. I found out that my example client implementation was faulty and re-wrote most of echo and link examples with proper command line options and as a pretty close translation of the python example code (code @ github.com/jschulthess/reticulum-test/tree/main/java/example-app/src/main/java/io/reticulum/examples/{EchoApp.java,LinkApp.java). Debugging a network stack turns out to be a bit harder. Had to create a tmuxinator setup with several multiple-pane windows which allows to control client, server and network stack on the 3 systems involved in the test setup. I'm getting there slowly with mixed setups using python-client-to-java-server and vise versa to isolate faulty client and server logic in Java RNS. The code owner sergst still can't find time like I had hoped for. However, I think the errors in the logic are relatively minor, just an absolute pain to find... I should be able to do this, just needing more time than the person who wrote the code. Good thing is I'm learning more and more about the code (protocol and logic) details in both implementations which is necessary anyway. The remaining immediate issue(s) I see: On the packet side there is one more issue with packet proofs not being returned correctly. Link confirmation works python-2-java but not java-2-java which means another issue in the RNS client logic.
+
+The very ability to post text is already a huge improvement, people will still be able to link to QDN material, just not post it to QDN over mobile themselves if they don't know the API key.
+
+I was told multiple times that we wouldn't be able to post messages without an API key and I didn't research it any further because I deferred to the opinions of more experienced people. I decided to at least try and implement the post chat feature for people who use their own node (for which they DO have the API key) and while I was experimenting with this I discovered that we actually DON'T need the API key to post chat messages. Just goes to show that you should always do your own research, I could have implemented this like 6 months ago 😆
+
+It doesn't matter, I'm really happy with this momentous breakthrough!
+
+Special thank to Bebop_Rocksteady, QuickMythril, IronFixXxerR, Swisslibertarian, mousey, Stonecrow, Native and The Cat for pulling me out of hibernation (hope I'm not forgetting anyone)
+
+
+
