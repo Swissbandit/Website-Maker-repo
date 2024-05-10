@@ -1,9 +1,0 @@
- 
-I export the new tabs page, then arrange them as I want with an editor (it is a json file) and import it back into the UI.
-
-I concur.  I have been behind listening to the QTT's but in 20240416 and 20240423 it was mentioned that the releases that you (QuickMythril) created as well as any that anyone made off of AlphaX's branch is unofficial and thus NOT THEIR PROBLEM.  They also said that "anyone can clone the apps and make their own" then proceeded to say nobody would want to use the clones because they would not be supported.  It seems to me that the current "default", er, "demo" apps were developed for the community, but when someone tries to use them by cloning, it is unofficial and not supported.
-
-It is time to move forward.  When the community sees the improved quality of the plus apps, they "should" start using them in favor of the Q- apps.
-
-siddi badge-6
-Commercial smoke ware holds up to 600 additional chemicals, none of which are healthy. Among the Pyrazines, a class purposely added to create addiction. It's not the Nocotine, that has been used for eons by South American natives as an antidote to snake venom - it is one of the magical health remedies for which every cell naturally has receptors.
