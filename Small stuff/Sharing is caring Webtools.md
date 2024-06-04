@@ -20,6 +20,7 @@ Things without much hassle, no login no email,not much restricted and working.
 - <https://www.onlineocr.net> OCR
 
 - <https://www.shodan.io>
+- <readme.so> Markdown Editor
 
 
 ### Bases Info News
